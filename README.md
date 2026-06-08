@@ -1,1 +1,1 @@
-"# llm-zoomcamp-2026" 
+# llm-zoomcamp-2026
